@@ -80,7 +80,7 @@ var Tasks = {
 				}
 			})
 
-			if(count == 2) {
+			if(count == 6) {
 				clearInterval(refreshIntervalId);
 
 				// Send to individual client
