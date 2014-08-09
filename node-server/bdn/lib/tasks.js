@@ -52,7 +52,7 @@ var Tasks = {
 						console.log(paidAmount);
 						
 						// Test:
-						paidAmount = 0.5;
+						// paidAmount = 0.5;
 
 						if(paidAmount > 0) {
 							owingAmount = requestedAmount - paidAmount;
